@@ -33,7 +33,7 @@ USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BA
 
 ## 📧 Contato
 
-- Autor: João Silva
-- Email: joao.silva@email.com
-- LinkedIn: linkedin.com/in/joao-silva
-- Portfólio: www.joaosilva.com
+- **Autor: Antonio Noberto Albuquerque Pereira de Lima**
+- **Email: antonio_slip7@hotmail.com**
+- **LinkedIn: linkedin.com/in/joao-silva**
+- **Portfólio: www.joaosilva.com**
