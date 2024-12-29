@@ -14,12 +14,3 @@ que o usuário escolha os filtros da busca sobre o colaborador e retorne com o q
 encontrado na base de dados.
 Na aplicação deve ser possível usar SQL para cadastrar, ler, alterar e remover as informações
 dos colaboradores do banco de dados.
-
-Exemplo de algumas informações que podem ser cadastradas:
-● Nome
-● E-mail
-● Contato
-● Competências técnicas
-● Certificações
-● Tempo de experiência
-● URL do Linkedin
