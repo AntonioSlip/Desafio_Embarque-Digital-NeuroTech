@@ -17,3 +17,11 @@ dos colaboradores do banco de dados.
 
 FOI DESENVOLVIDO UM WEBSITE PARA GERENCIAMENTO DE FUNCIONÁRIOS UTILIZANDO O SISTEMA CRUD,
 USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BANCO DE DADOS RELACIONAL.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Java**
+- **Spring Boot**
