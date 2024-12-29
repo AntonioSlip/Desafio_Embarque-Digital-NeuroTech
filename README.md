@@ -36,4 +36,4 @@ USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BA
 - **Autor: Antonio Noberto Albuquerque Pereira de Lima**
 - **Email: antonio_slip7@hotmail.com**
 - **LinkedIn: linkedin.com/in/joao-silva**
-- **Portfólio: www.joaosilva.com**
+- **Portfólio: https://antonioslip.github.io/Curriculo_v2.0/**
