@@ -14,3 +14,6 @@ que o usuário escolha os filtros da busca sobre o colaborador e retorne com o q
 encontrado na base de dados.
 Na aplicação deve ser possível usar SQL para cadastrar, ler, alterar e remover as informações
 dos colaboradores do banco de dados.
+
+FOI DESENVOLVIDO UM WEBSITE PARA GERENCIAMENTO DE FUNCIONÁRIOS UTILIZANDO O SISTEMA CRUD,
+USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BANCO DE DADOS RELACIONAL.
