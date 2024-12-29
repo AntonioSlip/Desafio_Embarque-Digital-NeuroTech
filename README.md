@@ -20,6 +20,7 @@ FOI DESENVOLVIDO UM WEBSITE PARA GERENCIAMENTO DE FUNCIONÁRIOS UTILIZANDO O SIS
 USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BANCO DE DADOS RELACIONAL.
 
 ---
+
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
@@ -27,3 +28,12 @@ USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BA
 - **JavaScript**
 - **Java**
 - **Spring Boot**
+
+---
+
+## 📧 Contato
+
+Autor: João Silva
+Email: joao.silva@email.com
+LinkedIn: linkedin.com/in/joao-silva
+Portfólio: www.joaosilva.com
