@@ -28,6 +28,7 @@ USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BA
 - **JavaScript**
 - **Java**
 - **Spring Boot**
+- **SupaBase**
 
 ---
 
@@ -35,5 +36,5 @@ USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BA
 
 - **Autor: Antonio Noberto Albuquerque Pereira de Lima**
 - **Email: antonio_slip7@hotmail.com**
-- **LinkedIn: linkedin.com/in/joao-silva**
+- **LinkedIn: https://www.linkedin.com/in/antonio-noberto-b6526612b/**
 - **Portfólio: https://antonioslip.github.io/Curriculo_v2.0/**
