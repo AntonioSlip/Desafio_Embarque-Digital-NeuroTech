@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alterar</title>
+    <link rel="stylesheet" href="/css/alterar_style.css">
+</head>
+<body>
+    <h1>Alterar Dados do Funcionário</h1>
+    <input type="number" id="id" name="id" placeholder="Digite o ID" required>
+    <button onclick="buscarFuncionario()">Buscar</button>
+
+    <div id="info" class="info">
+        <h2>Dados do Funcionário</h2>
+        <p id="dadosFuncionario"></p>
+
+        
+        <form id="updateForm">
+            <h1>Atualizar</h1>
+            <label>
+                <input type="checkbox" class="editable" data-field="nome">
+            </label>
+            <input type="text" id="nome" placeholder="Nome" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="email">
+            </label>
+            <input type="email" id="email" placeholder="Email" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="contato">
+            </label>
+            <input type="text" id="contato" placeholder="Contato" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="competenciasTecnicas">
+            </label>
+            <input type="text" id="competenciasTecnicas" placeholder="Competências Técnicas" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="certificacoes">
+            </label>
+            <input type="text" id="certificacoes" placeholder="Certificações" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="tempoExperiencia">
+            </label>
+            <input type="text" id="tempoExperiencia" placeholder="Tempo de Experiência" disabled>
+            
+            <label>
+                <input type="checkbox" class="editable" data-field="urlLinkedin">
+            </label>
+            <input type="text" id="urlLinkedin" placeholder="URL do LinkedIn" disabled>
+            <br><br>
+            <button type="submit">Atualizar</button>
+        </form>
+    </div>
+</body>
+<script src="/js/alterar_script.js"></script>
+</html>

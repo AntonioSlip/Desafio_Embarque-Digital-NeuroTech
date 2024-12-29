@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta</title>
+    <link rel="stylesheet" href="/css/consulta_style.css">
+</head>
+<body>
+    <h1>Buscar Funcionário</h1>
+    <input type="number" id="id" name="id" placeholder="Digite o ID" required>
+    <button onclick="buscarFuncionario()">Buscar</button>
+    <div id="info" class="info">
+        <h2>Dados do Funcionário:</h2>
+        <pre id="dadosFuncionario"></pre>
+    </div>
+    <br>
+    <br>
+    <h1>Listar Todos Funcionários</h1>
+    <button onclick="listarTodos()">Listar</button>
+    <div id="information" class="information">
+        <h2>Dados dos Funcionários:</h2>
+        <pre id="dadosFuncionarios"></pre>
+    </div>
+</body>
+<script src="../js/consulta_script.js"></script>
+</html>

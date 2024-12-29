@@ -1,0 +1,66 @@
+/* Estilo básico para a página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #1d3557;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilo para o conteúdo principal */
+main {
+    margin: 20px;
+}
+
+/* Estilo para a lista de navegação */
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    color: #1d3557;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #e63946;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #1d3557;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Ajustes para dispositivos móveis */
+@media (max-width: 600px) {
+    ol {
+        padding-left: 0;
+    }
+
+    li {
+        font-size: 16px;
+    }
+}

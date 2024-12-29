@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deletar</title>
+    <link rel="stylesheet" href="/css/deletar_style.css">
+</head>
+<body>
+    <h1>Deletar Funcionário</h1>
+    <input type="number" id="id" name="id" placeholder="Digite o ID" required>
+    <button onclick="buscarFuncionario()">Buscar</button>
+
+    <div id="info" class="info">
+        <h2>Dados do Funcionário</h2>
+        <p id="dadosFuncionario"></p>
+        <br>
+        <button onclick="deletarPorId()">Deletar</button>
+    </div>
+</body>
+<script src="/js/deletar_script.js"></script>
+</html>
