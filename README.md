@@ -15,11 +15,11 @@ encontrado na base de dados.
 Na aplicação deve ser possível usar SQL para cadastrar, ler, alterar e remover as informações
 dos colaboradores do banco de dados.
 
+## Conclusão:
 FOI DESENVOLVIDO UM WEBSITE PARA GERENCIAMENTO DE FUNCIONÁRIOS UTILIZANDO O SISTEMA CRUD,
 USADO PARA RECUPERAR, INCLUIR, REMOVER E MODIFICAR INFORMAÇÕES DENTRO DE UM BANCO DE DADOS RELACIONAL.
 
 ---
-
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
